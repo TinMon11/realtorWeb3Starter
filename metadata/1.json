@@ -1,8 +1,8 @@
 {
-    "name": "Luxury NYC Penthouse",
-    "address": "157 W 57th St APT 49B, New York, NY 10019",
-    "description": "Luxury Penthouse located in the heart of NYC",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
+    "name": "Luxury BA Penthouse",
+    "address": "Av Estrada 2510, Cordoba, AR 5000",
+    "description": "Luxury House located in the heart of Argentina",
+    "image": "https://ipfs.filebase.io/ipfs/QmchzhUmG5JtjeSETZAYBdquaACeXZc59wKWNBpCkx5DqJ/1.jpg",
     "id": "1",
     "attributes": [
         {
@@ -15,19 +15,19 @@
         },
         {
             "trait_type": "Bed Rooms",
-            "value": 2
+            "value": 12
         },
         {
             "trait_type": "Bathrooms",
-            "value": 3
+            "value": 5
         },
         {
             "trait_type": "Square Feet",
-            "value": 2200
+            "value": 2800
         },
         {
             "trait_type": "Year Built",
-            "value": 2013
+            "value": 2017
         }
     ]
 }

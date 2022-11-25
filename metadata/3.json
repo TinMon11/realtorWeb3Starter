@@ -1,8 +1,8 @@
 {
-    "name": "WA Nature Home",
-    "address": "183 Woodland Drive, Camano Island, WA 98282",
-    "description": "Comfy island home on Camano Island",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/3.png",
+    "name": "MESSI Big House",
+    "address": "1986 Soccer Street, Barcelona, SP 98282",
+    "description": "Comfy island home on Spain",
+    "image": "https://ipfs.filebase.io/ipfs/QmchzhUmG5JtjeSETZAYBdquaACeXZc59wKWNBpCkx5DqJ/3.png",
     "id": "3",
     "attributes": [
         {
@@ -15,15 +15,15 @@
         },
         {
             "trait_type": "Bed Rooms",
-            "value": 3
+            "value": 5
         },
         {
             "trait_type": "Bathrooms",
-            "value": 3
+            "value": 10
         },
         {
             "trait_type": "Square Feet",
-            "value": 2202
+            "value": 3500
         },
         {
             "trait_type": "Year Built",

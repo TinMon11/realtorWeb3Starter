@@ -1,8 +1,8 @@
 {
-    "name": "Architectural CA Modern Home",
-    "address": "70780 Tamarisk Ln, Rancho Mirage, CA 92270",
-    "description": "Beautiful modern home in Rancho Mirage",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/2.png",
+    "name": "MVP Guest House Residence",
+    "address": "13551 Tamarisk Ln, Los Angeles, CA 92270",
+    "description": "Beautiful modern home in LA",
+    "image": "https://ipfs.filebase.io/ipfs/QmchzhUmG5JtjeSETZAYBdquaACeXZc59wKWNBpCkx5DqJ/2.jpg",
     "id": "2",
     "attributes": [
         {
@@ -15,19 +15,19 @@
         },
         {
             "trait_type": "Bed Rooms",
-            "value": 4
+            "value": 8
         },
         {
             "trait_type": "Bathrooms",
-            "value": 4
+            "value": 7
         },
         {
             "trait_type": "Square Feet",
-            "value": 3979
+            "value": 34500
         },
         {
             "trait_type": "Year Built",
-            "value": 1980
+            "value": 2019
         }
     ]
 }
